@@ -173,7 +173,7 @@ public class GameManager : MonoBehaviour
         //changing players health
         GameManager.instance.player.hp = int.Parse(data[3]);
 
-        player.transform.position = Vector3.zero;
+        player.transform.position = GameObject.Find("Spawnpoint").transform.position;
 
     }
 
