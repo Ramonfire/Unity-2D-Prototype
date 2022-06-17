@@ -10,4 +10,6 @@ unzip the rar file
 then play it
 
 
+if you wish to run this code then clone the repository and open it using unity (2019 or newer versions ) 
+
 
